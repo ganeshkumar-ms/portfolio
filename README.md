@@ -18,3 +18,7 @@ This is a personal portfolio website built using HTML, CSS, Bootstrap, and JavaS
 1. Clone the repository:
    ```bash
    git clone https://github.com/ganeshkumar-ms/portfolio.git
+
+## Live Demo
+
+You can view the live demo of the website here: [Live Demo](https://popcorn-cine.netlify.app/)
